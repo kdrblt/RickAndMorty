@@ -15,7 +15,9 @@
             <td>Character Detail</td>
         </tr>
         <tr>
-                <td>[Splash](https://github.com/kdrblt/RickAndMorty/assets/132228860/682fb1e8-16dc-4ad7-847a-5d21b16efc7e)</td>
+                <td>img21</td>
+                <td>img22</td>
+                <td>img23</td>
 
         </tr>
 </table>
