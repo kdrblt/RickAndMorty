@@ -1,4 +1,5 @@
 # RickAndMorty
+# Basic , Jetpack Compose - MVVM - List and Detail Rick And Morty Characters App. 
 - Jetpack Compose
 - MVVM
 - Clean Arch.
