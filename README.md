@@ -14,10 +14,9 @@
             <td>Characters</td>
             <td>Character Detail</td>
         </tr>
-        <tr>
-                <td>img21</td>
-                <td>img22</td>
-                <td>img23</td>
-
+        <tr> 
+            <td>Splash</td>
+            <td>Characters</td>
+            <td>Character Detail</td>
         </tr>
 </table>
