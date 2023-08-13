@@ -9,11 +9,9 @@
 - Coil
 
 <table>
-        <thead>
-        <th> 
+        <tr> 
             <td>Splash</td>
             <td>Characters</td>
             <td>Character Detail</td>
-        </th>
-        </thead>
+        </tr>
 </table>
