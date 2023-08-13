@@ -8,6 +8,8 @@
 - Retrofit
 - Coil
 
+<a href="https://rickandmortyapi.com/" target="_blank">Rick And Morty API</a> 
+
 <table>
         <tr> 
             <td>Splash</td>
